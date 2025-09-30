@@ -1,10 +1,10 @@
-## title Re-Projects {.tabset .tabset-fade}
+# Re-Projects
 Re;Projects which includes all kinds of stories from past, present, future and myth
 
-### tab Introduction
+## Introduction
   Re;Projects are a big project where Author begin collecting informations in order to create a bigger game that sastifiying the inner desire for their future.
 
-### tab Table of Contents
+## Table of Contents
   - Re;Projects
       - Re;Eclipse
       - Re;Infinity
@@ -14,18 +14,12 @@ Re;Projects which includes all kinds of stories from past, present, future and m
   - Others
       - Still Deciding
   
-### tab Softwares
+## Softwares
 
-### tab Others
+## Others
 
-tab content  Articles
+## Stories
 
-### tab Skills
 
-tab content  Skills
-
-### tab About
-
-tab content  Insights
-
-content below tabbed region
+## About
+copyright @ 2025 Hirio Kira
